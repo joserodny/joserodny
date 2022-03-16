@@ -1,10 +1,10 @@
-[![MasterHead](https://miro.medium.com/max/1000/1*unmVsOH7qujPeBwFN5Y2Zw.png)]
+![MasterHead](https://miro.medium.com/max/1000/1*unmVsOH7qujPeBwFN5Y2Zw.png)
 <h1 align="center">Hi 👋, I'm rodny</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joserodny&label=Profile%20views&color=0e75b6&style=flat" alt="joserodny" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://joserodnys.netlify.app/](https://joserodnys.netlify.app/)
+- 👨‍💻 [https://joserodnys.netlify.app/](https://joserodnys.netlify.app/)
 
 - 📄 Know about my experiences [https://raw.githubusercontent.com/joserodny/portfolio/master/Jose%20Rodny%20S.%20Sibugan.pdf](https://raw.githubusercontent.com/joserodny/portfolio/master/Jose%20Rodny%20S.%20Sibugan.pdf)
 
