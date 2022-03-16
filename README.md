@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1000/1*unmVsOH7qujPeBwFN5Y2Zw.png)
+![MasterHead](https://miro.medium.com/max/1400/1*HLGtY6O2vUHqIyEbWdmBgA.jpeg)
 <h1 align="center">Hi 👋, I'm rodny</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joserodny&label=Profile%20views&color=0e75b6&style=flat" alt="joserodny" /> </p>
 
