@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joserodny&label=Profile%20views&color=0e75b6&style=flat" alt="joserodny" /> </p>
 
 
-- 👨‍💻 [My Portfolip](https://joserodny.herokuapp.com/)
+- 👨‍💻 [My Portfolip](https://joserodny.netlify.app/)
 
 - 📄 [Download Resume](https://raw.githubusercontent.com/joserodny/joserodny/main/Jose%20Rodny%20S.%20Sibugan.pdf)
 
