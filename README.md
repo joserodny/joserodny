@@ -5,7 +5,6 @@
 
 - 👨‍💻 [My Portfolio](https://joserodny.netlify.app/)
 
-- 📄 [Download Resume](https://raw.githubusercontent.com/joserodny/joserodny/d342f6c95a1acc44fd7af503901fb436f0869a79/Jose%20Rodny%20S.%20Sibugan.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
